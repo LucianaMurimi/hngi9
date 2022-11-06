@@ -22,7 +22,7 @@ The app consists of three screens: splash screen, home page(bio section) and and
 
 Desirable additional features:
 - Localization
-- Improved app d.esign
+- Improved app design
 
 Appetize link https://appetize.io/app/aeig2ba4wjp7474yfccz4nvsie  
 
